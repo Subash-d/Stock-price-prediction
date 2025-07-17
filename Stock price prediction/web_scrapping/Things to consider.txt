@@ -1,0 +1,11 @@
+| What                             | Why it Matters                                                  | Where to Find                           |
+| -------------------------------- | --------------------------------------------------------------- | --------------------------------------- |
+| **Total Revenue / Total Income** | Shows how much the company earned                               | Income Statement                        |
+| **Net Profit / Loss**            | Shows if company is making or losing money                      | Income Statement                        |
+| **Earnings Per Share (EPS)**     | How much profit per share — direct link to stock price          | Income Statement                        |
+| **YoY / QoQ Growth**             | Year-over-Year or Quarter-over-Quarter change in profit/revenue | Usually in highlights section           |
+| **Debt / Borrowings**            | High debt means risk — affects investor sentiment               | Balance Sheet                           |
+| **Cash Reserves**                | Indicates financial stability — good for long-term sentiment    | Balance Sheet                           |
+| **Dividend Declaration**         | Investors love dividends — price may go up                      | Notes / Press Release                   |
+| **Major Announcements**          | Joint ventures, product launches, restructuring                 | Press Release / CEO Statement           |
+| **Guidance / Forecast**          | What company expects for next quarter/year                      | CEO's statement / Investor presentation |
